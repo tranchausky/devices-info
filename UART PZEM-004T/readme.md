@@ -103,3 +103,40 @@ Mô-đun giao tiếp có vỏ * 1 + cuộn dây đóng * 1
 
 <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/12329a2d-57dc-43cd-b9a0-8c1c4f07abd6" />
 
+![IMG_3530](https://github.com/user-attachments/assets/26ae161e-ed72-477c-b3af-8f632040d076)
+
+
+Code RX-TX
+
+![IMG_3529](https://github.com/user-attachments/assets/27524712-1686-4a93-8079-c76b86b8af22)
+
+Baud rate 9600, 8 data bits, 1 stop bit, no parity
+
+```
+0x000 Voltage value
+0x001 Current value low 16 bits
+0x002 Current value high 16 bits
+0x003 Power value low 16 bits
+0x004 Power value high
+0x005 Energy value low
+0x006 Energy value high
+0x007 Frequency value
+0x008 Power factor value
+0x009 Alarm stauts
+(0xFFFF is alarm, 0x0000 is not alarm)
+
+
+CRC check code 0xHH and 0xLL
+Voltage is 0x0898, coverted decimal is 2220, display 220.0V
+Current is 0x00003E8, cenvertd to decimal is 1000, display 1.000A
+Power is 0x00000898 cenverted to decimal is 2200 display 220.0W
+Energy is 0x00000000 cenverted to decimal is 0, display 0Wh
+Frequency is 0x01F4, converted to decimal is 500, display 50.0Hz
+Power factor is 0x0064, ceonveted to decimal is 100, display 1.00
+
+
+
+
+```
+
+
