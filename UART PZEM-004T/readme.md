@@ -1,6 +1,13 @@
 ## Mô Đun Kiểm Tra Điện Áp Pcbfun Pzem-004t Ac 100a Đa Năng Chuyên Dụng
 
+```
 https://shopee.vn/M%C3%B4-%C4%90un-Ki%E1%BB%83m-Tra-%C4%90i%E1%BB%87n-%C3%81p-Pcbfun-Pzem-004t-Ac-100a-%C4%90a-N%C4%83ng-Chuy%C3%AAn-D%E1%BB%A5ng-i.213820428.22248965874
+
+https://hshop.vn/mach-do-ap-dong-cong-suat-nang-luong-ac-100a-giao-tiep-uart
+
+https://www.mediafire.com/file/zsvhta2wzjhdi6f/%5BHshop.vn%5D+PZEM-004T+Software.zip
+https://github.com/vietduino/Hshopvn_Pzem004t_V2/tree/master
+```
 
 ```
 Các tính năng:
