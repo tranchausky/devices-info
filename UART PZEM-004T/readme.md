@@ -183,7 +183,9 @@ Mô-đun giao tiếp có vỏ * 1 + cuộn dây đóng * 1
 
 ![IMG_3530](https://github.com/user-attachments/assets/26ae161e-ed72-477c-b3af-8f632040d076)
 
-<img width="613" height="1079" alt="image" src="https://github.com/user-attachments/assets/5e115563-717b-4c8e-805f-a589c217d2f4" />  
+<img width="613" height="1079" alt="image" src="https://github.com/user-attachments/assets/5e115563-717b-4c8e-805f-a589c217d2f4" /> 
+<img width="645" height="1079" alt="image" src="https://github.com/user-attachments/assets/36e59a5e-cceb-4fb9-b7ba-9068cef55b71" />
+
 https://youtu.be/hnTdq-rVSfs  
 
 
