@@ -188,6 +188,8 @@ Mô-đun giao tiếp có vỏ * 1 + cuộn dây đóng * 1
 
 https://youtu.be/hnTdq-rVSfs  
 
+<img width="645" height="1079" alt="image" src="https://github.com/user-attachments/assets/dccd614f-cb4e-43d8-b145-faa7ee8aa3a2" />
+
 
 
 Code RX-TX
