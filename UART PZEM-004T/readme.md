@@ -135,6 +135,29 @@ Frequency is 0x01F4, converted to decimal is 500, display 50.0Hz
 Power factor is 0x0064, ceonveted to decimal is 100, display 1.00
 
 
+0x03 Read Holding Register
+0x04 Read Input Register
+0x06 Write Single Register0x41 Calibration
+0x42 Reset energy
+
+
+
+
+0x41 function code is only for internal use (address can be only 0xF8), used for factory calibration and return to factory maintenance occasions, after the function code to increase 16-bit password, the default password is 0x3721
+
+
+Slave Address + 0x04 + Register Address High Byte + Register Address Low Bute + Number of Registers High Bute + Number Of Registers Low Bute + CRC Check High Bute + CRC Check Low byte.
+
+Correct Reply" Slave Address + 0x04 + Number Of Bytes + Register 1 Data High Byte + Register 1 Data Low Byte +..+ CRC Check High Byte + CRC Check Low Byte
+
+Register adderss
+0x0001 Power alarm threshold   1LSB correspond to 1W
+0x0002 Modbus-RTU address The ran ger is 0x00001~0x00F7
+
+
+TTL to USB cable
+
+PZEM-004T w
 
 
 ```
