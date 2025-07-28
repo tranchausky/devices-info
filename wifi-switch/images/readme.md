@@ -48,3 +48,22 @@ Index 3 Setting
  
 Overcharge Switch (On/Off) Whenever  the power is less than 3w for 40 minutes, the device will be turned off.
 Child Lock (On/Off) Power on the device or press button 4 times then can control locally.
+
+![Screenshot_20250728-092838_Smart Life](https://github.com/user-attachments/assets/a48956db-9c09-42fd-a25e-8413d8c707fc)
+![Screenshot_20250728-092843_Smart Life](https://github.com/user-attachments/assets/242bbb3a-5f01-4c6f-9bd0-7d8c42a8494e)
+![Screenshot_20250728-092914_Smart Life](https://github.com/user-attachments/assets/38455f7a-1f6e-4d1a-9f10-bbf6ff718df7)
+
+![Screenshot_20250728-092919_Smart Life](https://github.com/user-attachments/assets/5b93ce30-e6ea-4af7-a2a3-e07c1c39c641)
+![Screenshot_20250728-092853_Smart Life](https://github.com/user-attachments/assets/24f06f9e-f78b-4937-9820-28356c99dc50)
+![Screenshot_20250728-092938_Smart Life](https://github.com/user-attachments/assets/6d933297-7ead-479c-b3bd-c9308f46c9a3)
+![Screenshot_20250728-092932_Smart Life](https://github.com/user-attachments/assets/45b77b14-b0dd-456f-a3ea-beeb3684e7d4)
+![Screenshot_20250728-092945_Smart Life](https://github.com/user-attachments/assets/cd854805-91d8-42a1-97f5-e18b299208fa)
+![Screenshot_20250728-092950_Smart Life](https://github.com/user-attachments/assets/f977953d-2957-42d6-8bc3-fbb28ea08044)
+
+![Screenshot_20250728-093046_Smart Life](https://github.com/user-attachments/assets/556a9fa0-ed12-4c04-8296-828847d0d61a)
+
+![Screenshot_20250728-093052_Smart Life](https://github.com/user-attachments/assets/091b103f-2871-4be0-aa7a-67c77cfbf2b1)
+![Screenshot_20250728-093057_Smart Life](https://github.com/user-attachments/assets/09e1408a-48a4-4572-b1cb-2ae14e097d22)
+
+
+
